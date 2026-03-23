@@ -80,7 +80,7 @@ main {
 main > div {
     overflow-y: auto;
 }
-
+/* f*/
 .spinner {
     display: flex;
     align-items: center;
